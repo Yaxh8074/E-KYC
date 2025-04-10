@@ -20,6 +20,10 @@ This E-KYC application provides an interface where users can upload their ID car
 1. **Live Face Detection**: Camera-based verification instead of static image uploads
 2. **Enhanced Data Privacy**: Hashing of sensitive information **[COMPLETED]**
 
+UI:
+![Screenshot (2714)](https://github.com/user-attachments/assets/8a283e70-d7c1-45d3-af11-e96b477e5959)
+
+
 ## Setup Instructions
 
 1. **Clone the Repository**:
