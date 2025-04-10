@@ -21,7 +21,8 @@ This E-KYC application provides an interface where users can upload their ID car
 2. **Enhanced Data Privacy**: Hashing of sensitive information **[COMPLETED]**
 
 UI:
-![Screenshot (2714)](https://github.com/user-attachments/assets/8a283e70-d7c1-45d3-af11-e96b477e5959)
+![image](https://github.com/user-attachments/assets/bd25cbe1-2aca-4ece-9235-91a540f994f8)
+
 
 
 ## Setup Instructions
