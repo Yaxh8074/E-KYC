@@ -1,0 +1,5 @@
+[database]
+user = "root"
+password = "yash"
+host = "localhost"
+database = "mysql"  # Replace with the actual database name

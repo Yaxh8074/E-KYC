@@ -1,0 +1,13 @@
+artifacts:
+  FACERECOG_MODEL: deepface
+  HAARCASCADE_PATH: "data\\models\\haarcascade_frontalface_default.xml"
+  INTERMIDEIATE_DIR: "data\\02_intermediate_data"
+  CONTOUR_FILE: "contour_id.jpg"
+  FACE_IMG1: "data\\02_intermediate_data\\extracted_face.jpg"
+  FACE_IMG2: "data\\02_intermediate_data\\face_image.jpg"
+
+liveness:
+  model_path: "models/liveness.model"  # Path to your pre-trained liveness model
+  threshold: 0.2  # Confidence threshold for liveness
+  input_size: [32, 32]  # Input size for the model
+
