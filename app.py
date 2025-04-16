@@ -220,7 +220,6 @@
 #     set_page_style()
 
 #     st.title("E-KYC Registration using OCR and Computer Vision")
-#     st.write("Developed by 22MID0081 and 22MID0108")
     
 #     # Initialize session state for selfie
 #     if 'selfie_taken' not in st.session_state:
@@ -685,7 +684,6 @@ def main():
     set_page_style()
 
     st.title("E-KYC Registration using OCR and Computer Vision")
-    st.write("Developed by 22MID0081 and 22MID0108")
     
     # Initialize session state for selfie
     if 'selfie_taken' not in st.session_state:
